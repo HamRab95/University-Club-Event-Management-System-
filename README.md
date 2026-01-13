@@ -49,5 +49,6 @@ The system is built using a fully normalized 3NF relational schema including:
 
 ## Author
 Hamza Rabiu  
-MS in Management Information Systems,Northern Illinois University
+MS in Management Information Systems,
+Northern Illinois University
 
