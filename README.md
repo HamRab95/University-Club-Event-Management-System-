@@ -1,6 +1,6 @@
 # University Club & Event Management System
 
-A relational database system designed to manage university clubs, memberships, events, resources, and financial transactions.
+A relational database system designed with SQL and Microsoft Access to manage university clubs, memberships, events, resources, and financial transactions.
 
 ## Project Overview
 This system centralizes how student organizations manage:
